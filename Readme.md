@@ -1,0 +1,2 @@
+- [Lecture 0](/Lecture-0/Readme.md)
+- [Lecture 1](/Lecture-1/Readme.md)
